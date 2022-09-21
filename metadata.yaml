@@ -1,0 +1,31 @@
+_repo: The-village-labourer-1760-1832-A-study-in-the-government-of-England-before-the-Reform-Bill_69002
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hammond, Barbara
+    gutenberg_agent_id: '55051'
+    url: http://www.gutenberg.org/2009/agents/55051
+  - agent_name: Hammond, J. L.
+    gutenberg_agent_id: '55050'
+    url: http://www.gutenberg.org/2009/agents/55050
+description: ''
+gutenberg_issued: '2022-09-17'
+identifiers:
+  gutenberg: '69002'
+language: en
+pgterms:marc904: https://archive.org/details/villagelabourer100hammuoft/page/2
+pgterms:marc905: 20190721144620hammond
+pgterms:marc906: '1912'
+pgterms:marc907: GB
+production_note: Henry Flower and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: United Kingdom :Longmans, Green, & Co.,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The village labourer 1760-1832: A study in the government of England before
+  the Reform Bill'
+url: http://www.gutenberg.org/ebooks/69002
